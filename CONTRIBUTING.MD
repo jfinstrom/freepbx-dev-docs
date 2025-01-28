@@ -30,7 +30,7 @@ Before submitting a pull request, please follow these guidelines:
 
 ## Licensing
 
-All contributions to this documentation are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. See the [LICENSE.md](LICENSE.md) file for more details.
+All contributions to this documentation are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. See the [LICENSE.MD](LICENSE.MD) file for more details.
 
 ## Contact
 
