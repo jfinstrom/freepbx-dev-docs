@@ -1,4 +1,4 @@
-# Unofficial Documentation for People developing and using on FreePBX
+# Unofficial Documentation for People developing and using FreePBX
 
 This is a collection of markdown files for documentation related to FreePBX module development administration and usage.
 
@@ -32,3 +32,9 @@ This documentation is licensed under a Creative Commons Attribution-NonCommercia
 If you have any questions or feedback, please feel free to create an issue on this repository.
 
 We hope this documentation is helpful!
+
+**Legal Mumbo Jumbo Disclaimer**  
+
+This project is in no way, shape, or form affiliated with, endorsed by, sponsored by, or even mildly tolerated by Sangoma Technologies, the proud (or at least legal) owner of the FreePBX trademark. Any references to FreePBX, Sangoma, or related trademarks are purely for descriptive and fair use purposes. No endorsement, support, or warm fuzzy feelings should be inferred.  
+
+If you’re a lawyer reading this, please take a deep breath and remember: satire is a thing, fair use is a thing, and we promise we’re not trying to impersonate, steal, or otherwise cause corporate distress. If you still feel the urge to send a cease-and-desist, at least make it entertaining. We prefer legal threats in pirate-speak or haiku form.
