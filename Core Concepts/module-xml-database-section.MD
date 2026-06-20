@@ -143,6 +143,7 @@ For complex migrations, use Doctrine migrations (see [](../Advanced Topics/doctr
 ## Things to watch for
 
 - Table/column names must be valid MySQL identifiers
+- Foreign keys are not supported in the XML schema engine; see https://github.com/FreePBX/issue-tracker/issues/761
 - `notnull="false"` is the explicit nullable declaration
 - Framework strips XML declaration from generated output
 - Schema diff on upgrade is conservative; always test upgrade paths
